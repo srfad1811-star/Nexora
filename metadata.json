@@ -1,0 +1,6 @@
+{
+  "name": "Nexora",
+  "description": "Full-stack e-commerce storefront and enterprise retail management platform with real-time catalog, checkout, customer portal, and role-based admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
